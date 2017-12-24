@@ -64,7 +64,8 @@ header {
         margin-bottom: 0;
         padding: $padding-large/2.5 $padding-large;
         .meta {
-            color: rgba($feature-image-text-color, .7);
+            color: $feature-image-text-color;
+            font-weight: bold;
         }
     }
     .post-content {

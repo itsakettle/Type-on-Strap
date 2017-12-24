@@ -4,7 +4,8 @@ title:  "Net and object distortion in Self Organising Maps"
 date:   2017-08-01
 comments: true
 categories: som
-feature: assets/img/som_distortion/som_distortion.png
+feature-img: assets/img/som_distortion/som_distortion.png
+thumbnail: assets/img/som_distortion/som_distortion.png
 ---
   
 
