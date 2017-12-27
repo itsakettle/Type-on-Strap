@@ -6,7 +6,7 @@ permalink: /:title
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: itsakettle
+  title: <= itsakettle
   avatar: assets/img/itsakettle.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
